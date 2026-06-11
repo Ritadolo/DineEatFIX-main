@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(where flutter *)",
-      "Bash(\"E:\\\\Anything E\\\\Semester 4 APP\\\\Flutter\\\\flutter_windows_3.32.2-stable\\\\flutter\\\\bin\\\\flutter.bat\" pub get)"
-    ]
-  }
-}
